@@ -1,0 +1,8 @@
+.table-responsive td, .table-responsive th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+.table-dark td, .table-dark th, .table-dark thead th {
+    border-color: #32383e;
+}
